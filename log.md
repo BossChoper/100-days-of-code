@@ -8,10 +8,10 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 0: October 29, 2021 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Submitted a project on Game Builder Garage, and saw it played on stream for a contest! It was sort of hard to watch, but the players somewhat had fun with it and said that the biggest thing holding the game back was the crazy difficulty spike at the beginning of the game. Besides that, I guess it went well. Either way, this is the first time in history anybody has ever played something by me. This is exciting!! I hope to see more in the future. This is just the beginning, for us.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
