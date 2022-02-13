@@ -8,7 +8,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: October 29, 2021 (Example 2)
+### Day 1: October 29, 2021 (Example 2)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Submitted a project on Game Builder Garage, and saw it played on stream for a contest! It was sort of hard to watch, but the players somewhat had fun with it and said that the biggest thing holding the game back was the crazy difficulty spike at the beginning of the game. Besides that, I guess it went well. Either way, this is the first time in history anybody has ever played something by me. This is exciting!! I hope to see more in the future. This is just the beginning, for us.
@@ -18,12 +18,6 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: February 13, 2021 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: Completed about an hour of coding a script for a player character on Unity. The ball is supposed to roll around the map (being the cube), however there has been little working outside of a camera rotating around the player when you press A and D. Feeling pretty shitty (and tired) now. Will try again later.
